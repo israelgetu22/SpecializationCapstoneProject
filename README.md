@@ -1,17 +1,17 @@
-## E-Commerce Web Application
+# E-Commerce Web Application
 
-# Description
+## Description
 
 An e-commerce web app for my future company. Customers will be able to choose products to add to their personal shopping cart and make a purchase.
 
-# MVP
+## MVP
 
 1. User can create an account
 2. User can login to account
 3. User add product to a shopping cart cart
 4. User can search product
 
-# Pages
+## Pages
 
 1. Log-in
 2. Sign-up
@@ -20,7 +20,7 @@ An e-commerce web app for my future company. Customers will be able to choose pr
 5. Product
 6. Cart
 
-# Future Features
+## Future Features
 
 7. Order pages
 8. Admin Users pages
